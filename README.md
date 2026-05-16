@@ -24,7 +24,7 @@ Estou desenvolvendo (em parceria com a Rayssa Priscila) o **LuminaSaber**, uma p
 ---
 
 ### 💻 Tecnologias & Ferramentas
-Aqui estão as tecnologias que domino e utilizo ativamente no curso técnico, estágio e projetos:
+Aqui estão as tecnologias que domino e utilizo ativamente no curso técnico e projetos:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
@@ -41,9 +41,3 @@ Aqui estão as tecnologias que domino e utilizo ativamente no curso técnico, es
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walescaamaro&layout=compact&theme=dark&hide_border=true" alt="Top Langs de walescaamaro" />
-</p>
-
----
